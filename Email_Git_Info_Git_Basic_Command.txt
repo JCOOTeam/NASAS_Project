@@ -1,16 +1,3 @@
-Email
-=====
-email:		jcooteam@gmail.com
-Password:	JCOO_Team2020
-----------------------------------------------------
-GitHub
-======
-User:		JCOOTeam
-password:	JCOO_Team2020
-email:		jcooteam@gmail.com	
-
-----------------------------------------------------
-
 
 Commands for setting up my git repository
 cd		//Change directory
